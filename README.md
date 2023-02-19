@@ -54,7 +54,8 @@ Unsigned right shift: >>>
 
 For each JavaScript Operator, write 2 examples.
 
-Arithmetic Operators:
+1. Arithmetic Operators:
+
 Addition: 2 + 3 // Result: 5
 5.5 + 4.5 // Result: 10
 Subtraction: 7 - 5 // Result: 2
@@ -69,7 +70,8 @@ Increment: let i = 0; i++; // Result: 1
 let j = 5; j++; // Result: 6
 Decrement: let x = 5; x--; // Result: 4
 let y = 10; y--; // Result: 9
-Assignment Operators:
+
+2. Assignment Operators:
 Assignment: let x = 10; // x is assigned the value 10
 Addition assignment: let x = 5; x += 3; // Result: x is assigned the value 8
 Subtraction assignment: let y = 10; y -= 2; // Result: y is assigned the value 8
@@ -82,7 +84,8 @@ Unsigned right shift assignment: let e = -16; e >>>= 2; // Result: e is assigned
 Bitwise AND assignment: let f = 5; f &= 3; // Result: f is assigned the value 1
 Bitwise OR assignment: let g = 5; g |= 3; // Result: g is assigned the value 7
 Bitwise XOR assignment: let h = 5; h ^= 3; // Result: h is assigned the value 6
-Comparison Operators:
+
+3. Comparison Operators:
 Equal to: 5 == 5 // Result: true
 "5" == 5 // Result: true
 Not equal to: 5 != 3 // Result: true
