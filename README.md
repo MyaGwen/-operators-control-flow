@@ -134,6 +134,6 @@ Greater than or equal to: 5 >= 5 // Result: true
 Less than or equal to: 5 <= 3 // Result
 
 
-What is the result when the following program is executed?
+<!-- What is the result when the following program is executed? -->
 
 The program will output the following sequence of numbers: 1, 8, 15.
