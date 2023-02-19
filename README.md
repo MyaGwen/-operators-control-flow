@@ -10,6 +10,7 @@ Remainder: %
 Increment: ++
 Decrement: --
 
+
 2. Assignment Operators:
 
 Assignment: =
@@ -25,6 +26,7 @@ Bitwise AND assignment: &=
 Bitwise OR assignment: |=
 Bitwise XOR assignment: ^=
 
+
 3. Comparison Operators:
 
 Equal to: ==
@@ -36,11 +38,13 @@ Less than: <
 Greater than or equal to: >=
 Less than or equal to: <=
 
+
 4. Logical Operators:
 
 Logical AND: &&
 Logical OR: ||
 Logical NOT: !
+
 
 5. Bitwise Operators:
 
@@ -51,6 +55,7 @@ Bitwise NOT: ~
 Left shift: <<
 Right shift: >>
 Unsigned right shift: >>>
+
 
 For each JavaScript Operator, write 2 examples.
 
@@ -77,6 +82,7 @@ let j = 5; j++; // Result: 6
 Decrement: let x = 5; x--; // Result: 4
 let y = 10; y--; // Result: 9
 
+
 2. Assignment Operators:
 Assignment: let x = 10; // x is assigned the value 10
 
@@ -101,6 +107,7 @@ Bitwise AND assignment: let f = 5; f &= 3; // Result: f is assigned the value 1
 Bitwise OR assignment: let g = 5; g |= 3; // Result: g is assigned the value 7
 
 Bitwise XOR assignment: let h = 5; h ^= 3; // Result: h is assigned the value 6
+
 
 3. Comparison Operators:
 Equal to: 5 == 5 // Result: true
@@ -127,3 +134,6 @@ Greater than or equal to: 5 >= 5 // Result: true
 Less than or equal to: 5 <= 3 // Result
 
 
+What is the result when the following program is executed?
+
+The program will output the following sequence of numbers: 1, 8, 15.
