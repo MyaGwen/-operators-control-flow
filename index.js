@@ -1,6 +1,6 @@
 // 3.
 
-let classGroup = "Arts"; // Replace with Bolatito's class group
+let classGroup = "Arts"; 
 
 if (classGroup === "Science") {
   console.log("Your science subjects are: Physics, Chemistry, Biology, Technical Drawing");
@@ -15,8 +15,8 @@ if (classGroup === "Science") {
 // 5.
 
 function nearestPowerOf2(num) {
-    let pwr = Math.pow(2, Math.round(Math.log2(num)));
-    console.log(`The number ${pwr} is the power of 2 nearest to ${num}.`);
+    let power = Math.pow(2, Math.round(Math.log2(num)));
+    console.log(`The number ${power} is the power of 2 nearest to ${num}.`);
   }
   
   // Example usage:
