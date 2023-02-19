@@ -1,4 +1,4 @@
-List the symbols for each of the below Javascript operators
+<!-- List the symbols for each of the below Javascript operators -->
 
 1. Arithmetic Operators:
 
@@ -57,7 +57,7 @@ Right shift: >>
 Unsigned right shift: >>>
 
 
-For each JavaScript Operator, write 2 examples.
+<!-- For each JavaScript Operator, write 2 examples. -->
 
 1. Arithmetic Operators:
 
